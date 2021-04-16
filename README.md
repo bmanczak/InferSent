@@ -20,11 +20,12 @@ Below please find the links to PyTorch lighting logs from training, including ``
 ```
 InferSent
 | env.yml
-| models.py   % includes the definition of the encoders
-| dataset.py  % fetches the dataset related objects from torchtext
-| task.py     % contains PyTorchLightining trainer
-| train.py    % training logic
-| utils.py    % utiltiy functions
+| models.py    % includes the definition of the encoders
+| dataset.py   % fetches the dataset related objects from torchtext
+| task.py      % contains PyTorchLightining trainer
+| train.py     % training logic
+| utils.py     % utiltiy functions
+| demoNotebook.ipnyb
 | SentEval
 |   ...       % scripts from SentEval repo
 
