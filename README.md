@@ -5,15 +5,7 @@ In this repo I reproduce the sentence encoders from the paper "Supervised Learni
 In ``env.yml`` please find the ``acts`` environment containing all the packages needed for training and evaluation.
 
 ### Pretrained models
-Below please find the links to PyTorch lighting logs from training, including ``.ckpt`` checkpoints and ``TensorBoard`` logs.
-
-[Avg Glove word embeddings]()
-
-[Uni-directional LSTM]()
-
-[Bi-directional LSTM]()
-
-[Bi-directional LSTM with max pooling]()
+All pretrained models are avalaiable [here](https://drive.google.com/drive/folders/1OJ8vpZthCWl77e-BRqemUATmQO5qmp74?usp=sharing).
 
 ### Structure 
 
