@@ -12,14 +12,18 @@ All pretrained models are avalaiable [here](https://drive.google.com/drive/folde
 ```
 InferSent
 | env.yml
-| models.py    % includes the definition of the encoders
-| dataset.py   % fetches the dataset related objects from torchtext
-| task.py      % contains PyTorchLightining trainer InferSent
-| train.py     % training logic
-| utils.py     % utiltiy functions
+| models.py       % includes the definition of the encoders
+| dataset.py      % fetches the dataset related objects from torchtext
+| task.py         % contains PyTorchLightining trainer InferSent
+| train.py        % training logic
+| utils.py        % utiltiy functions
 | demoNotebook.ipnyb
+
+| eval_iters.py   % evaluate the models on SNLI 
+| eval.py         % evalaue the models on SentEval
+
 | SentEval
-|   ...       % scripts from SentEval repo
+|   ...       % content of the SentEval repo
 
 ```
 
