@@ -37,8 +37,17 @@ Run:
 
 `python eval_iters.py`
 
+In this case the path to the models need to be changed in the `.py` script.
+
+
 #### Evaluate on SentEval
 To evaluate on SentEval, copy the [SentEval repo](https://github.com/facebookresearch/SentEval) into InferSent and then run:
 
 `python eval.py --model_path --usepytorch`
 
+#### Evaluate of long sentences SNLI
+Run:
+
+`python eval_lengths.py`
+
+In this case the path to the models need to be changed in the `.py` script.
