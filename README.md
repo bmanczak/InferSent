@@ -1,5 +1,5 @@
 # InferSent
-In this repo I reproduce the sentence encoders from the paper "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data" by Conneau et al. (2017) and evaluate resulting models on SentEval testing framework. Please find summary of the findingsr in Report.pdf.
+In this repo I reproduce the sentence encoders from the paper "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data" by Conneau et al. (2017) and evaluate resulting models on SentEval testing framework. Please find summary of the findings in Report.pdf.
 
 ### Environment 
 In ``env.yml`` please find the ``acts`` environment containing all the packages needed for training and evaluation.
