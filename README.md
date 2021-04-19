@@ -49,7 +49,7 @@ To evaluate on SentEval, copy the [SentEval repo](https://github.com/facebookres
 
 `python eval.py --model_path --usepytorch`
 
-#### Evaluate of long sentences SNLI
+#### Evaluate the Short/long sentences on SNLI
 Run:
 
 `python eval_lengths.py`
